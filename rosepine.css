@@ -1,0 +1,100 @@
+:root .dark {
+    --B0: #1f1d2e;
+    --B1: #191724;
+    --B1H: #26233a;
+    --B2: #26233a;
+    --B3: #26233a;
+    --B3H: #403d52;
+    --B4: #403d52;
+    --B5: #524f67;
+    --T1: #e0def4;
+    --T2: #908caa;
+    --T3: #6e6a86;
+    --T4: #908caa;
+    --T5: #6e6a86;
+    --T6: #6e6a86;
+    --BD: #403d52;
+    --blue: #31748f;
+    --buy: #9ccfd8;
+    --sell: #eb6f92;
+    --ASK1: rgba(235, 111, 146, 0.2);
+    --ASK2: rgba(235, 111, 146, 0.2);
+    --BID1: rgba(49, 116, 143, 0.2);
+    --BID2: rgba(49, 116, 143, 0.2);
+    --UPF: rgba(49, 116, 143, 0.2);
+    --DWF: rgba(49, 116, 143, 0.2);
+    --RTF: rgba(255, 255, 255, 0.05);
+    --F26: rgba(235, 111, 146, 0.16);
+    --B25: #286983;
+    --TD5: #e0def4;
+}
+
+:root .light {
+    --B0: #faf4ed;
+    --B1: #fffaf3;
+    --B1H: #fffaf3;
+    --B2: #f2e9e1;
+    --B3: #fffaf3;
+    --B3H: #f2e9e1;
+    --B4: #f2e9e1;
+    --B5: #dfdad9;
+    --T1: #575279;
+    --T2: #797593;
+    --T3: #797593;
+    --T4: #9893a5;
+    --T5: #9893a5;
+    --T6: #cecacd;
+    --TW: #f4ede8;
+    --BD: #f2e9e1;
+    --blue: #286983;
+    --buy: #56949f;
+    --sell: #b4637a;
+    --ASK1: #fff3f3;
+    --ASK2: #f9e5e4;
+    --BID1: #e5f6f1;
+    --BID2: #e5f6f1;
+    --UPF: #e5f6f1;
+    --DWF: #e5f6f1;
+    --RTF: #edf1f7;
+    --F26: #fff2f6;
+    --B25: rgba(0, 63, 230, 0.06);
+    --TD5: #286983;
+}
+
+.dark .warning.H-8e172v,
+.liq.H-zoflur.H-zoflur {
+    color: #f6c177;
+}
+
+.light .warning.H-8e172v,
+.liq.H-zoflur.H-zoflur {
+    color: #ea9d34;
+}
+
+.sub-img.ml4.H-24icdm {
+    display: none;
+}
+
+.funding.H-1p15e8.H-1p15e8 {
+    color: #31748f;
+}
+
+.light.H-1mzf1nw.H-1mzf1nw {
+    background: #f6c177;
+}
+
+.badge.H-1x5yjem.H-1x5yjem,
+.limit.H-2t3q1a {
+    background: #31748f;
+    color: #e0def4;
+}
+
+.dark .wrap.H-11sl7gp.H-11sl7gp {
+    background: #403d52;
+    margin: 0 6px;
+}
+
+.market.H-zoflur.H-zoflur {
+    background: #c4a7e7;
+    color: var(--B1);
+}
