@@ -11,6 +11,9 @@
     </a>
 </p>
 
+> [!IMPORTANT]
+> This theme has been merged into our [userstyles repository](https://github.com/rose-pine/userstyles).
+
 ## Usage
 
 Add the contents of `rosepine.css` to your userstyle for `phemex.com`
